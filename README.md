@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 <img src="bannergif.gif"
-     alt="Markdown Monster icon" />
+     alt="Alexander Sierra Full Stack Web Developer" />
