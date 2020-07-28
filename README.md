@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-<img src="bannergif.gif"
+<img src="whitebacklight.png"
      alt="Alexander Sierra Full Stack Web Developer" />
