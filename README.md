@@ -1,6 +1,4 @@
-# Hi there 👋, I'm Alex - Full Stack Web Developer | Team Lead |
-
-<!-- <img src="bannergif.gif" width="500"/>  -->
+# Hi there 👋, I'm Alex - | Full Stack Web Developer | Team Lead |
 
 <img src="https://alexandercsierra.com/static/media/smallerlogo.6573817e.png" width="100">
 
