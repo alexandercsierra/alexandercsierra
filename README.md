@@ -6,7 +6,7 @@
 width="20"/>
 Portfolio: <https://www.alexandercsierra.com/> <br>
 <img src="https://image.flaticon.com/icons/svg/1384/1384062.svg" width="20"/>
-LinkedIn: <https://www.linkedin.com/in/alexandercsierra//> <br>
+LinkedIn: <https://www.linkedin.com/in/alexandercsierra/> <br>
 <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="20"/>
 Twitter: <https://www.twitter.com/asierrawebdev>
 <br>
