@@ -16,8 +16,8 @@ Twitter: <https://www.twitter.com/asierrawebdev>
 
 ## Tech I use:
 
-|                                                                     |            |     |     |
-| :-----------------------------------------------------------------: | :--------- | :-- | :-- |
+|                                                                     |            |
+| :-----------------------------------------------------------------: | :--------- |
 |   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>    | HTML       |
 |    <img src="https://img.icons8.com/color/48/000000/css3.png"/>     | CSS        |
 | <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  | JavaScript |
@@ -31,8 +31,8 @@ Twitter: <https://www.twitter.com/asierrawebdev>
 
 ## Tech I'm learning:
 
-|                                                                    |              |     |     |
-| :----------------------------------------------------------------: | :----------- | :-- | :-- |
+|                                                                    |              |
+| :----------------------------------------------------------------: | :----------- |
 | <img src="https://img.icons8.com/color/48/000000/typescript.png"/> | TypeScript   |
 |  <img src="https://img.icons8.com/color/48/000000/graphql.png"/>   | GraphQL      |
 |   <img src="https://img.icons8.com/nolan/64/react-native.png"/>    | React Native |
