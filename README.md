@@ -14,24 +14,25 @@ LinkedIn: <https://www.linkedin/in/alexandercsierra/> <br>
 <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="20"/>
 Twitter: <https://www.twitter.com/asierrawebdev>
 
-<!-- ## Tech I use:
-|| | | |
-|:-----:|:-----|:-----|:-----|
-|<img src="icons/html.png">| HTML|
-|<img src="icons/css.png">| CSS |
-|<img src="icons/js.png">| JavaScript |
-|<img src="icons/react.png">| ReactJS|
-|<img src="icons/redux.png"> | Redux|
-|<img src="icons/node.png">| NodeJS|
-|<img src="icons/python.png">| Python3|
-|<img src="icons/postgresql.png">| PostgreSQL|
-|<img src="icons/materialui.png"> | Materal UI|
-|<img src="icons/blender.png">| Blender 3D|
+## Tech I use:
 
+|                                                                     |            |     |     |
+| :-----------------------------------------------------------------: | :--------- | :-- | :-- |
+|   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>    | HTML       |
+|    <img src="https://img.icons8.com/color/48/000000/css3.png"/>     | CSS        |
+| <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  | JavaScript |
+| <img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/> | ReactJS    |
+|    <img src="https://img.icons8.com/color/48/000000/redux.png"/>    | Redux      |
+|   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>    | NodeJS     |
+|   <img src="https://img.icons8.com/color/48/000000/python.png"/>    | Python3    |
+| <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> | PostgreSQL |
+| <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> | Materal UI |
+| <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>  | Blender 3D |
 
 ## Tech I'm learning:
-|| | | |
-|:-----:|:-----|:-----|:-----|
-|<img src="icons/graphql.png">| GraphQL |
-|<img src="icons/reactnative.png">| React Native|
-|<img src="icons/php.png">| PHP | -->
+
+|                                                                    |              |     |     |
+| :----------------------------------------------------------------: | :----------- | :-- | :-- |
+| <img src="https://img.icons8.com/color/48/000000/typescript.png"/> | TypeScript   |
+|  <img src="https://img.icons8.com/color/48/000000/graphql.png"/>   | GraphQL      |
+|   <img src="https://img.icons8.com/nolan/64/react-native.png"/>    | React Native |
