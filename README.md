@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Alex - | Full Stack Web Developer | Team Lead |
 
+## Currently seeking full time remote opportunities
+
 <img src="https://alexandercsierra.com/static/media/smallerlogo.6573817e.png" width="100">
 
 <img src="https://image.flaticon.com/icons/svg/867/867644.svg" 
