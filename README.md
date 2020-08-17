@@ -6,15 +6,13 @@
 
 Above all else, I love learning new things 📚, and there is certainly no shortage of that in the development world. I find it so satisfying to have a problem, research the solution, then be able to immediately apply my new knowledge to fix a problem I couldn't solve 5 minutes ago. I also dabble in 3D modeling, having completed a 65+ hour course in Blender. When not developing 💻, I can be found playing trumpet in my community band, or frolicking in the snow ❄.<br><br>
 
-<!-- <img src="https://image.flaticon.com/icons/svg/867/867644.svg"
-    style="width: 20px"/>
+<img src="https://image.flaticon.com/icons/svg/867/867644.svg" 
+width="20"/>
 Portfolio: <https://www.alexandercsierra.com/> <br>
-<img src="https://image.flaticon.com/icons/svg/1384/1384062.svg"
-     style="width: 20px"/>
+<img src="https://image.flaticon.com/icons/svg/1384/1384062.svg" width="20"/>
 LinkedIn: <https://www.linkedin/in/alexandercsierra/> <br>
-<img src="https://image.flaticon.com/icons/svg/733/733579.svg"
-     style="width: 20px"/>
-Twitter: <https://www.twitter.com/asierrawebdev> -->
+<img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="20"/>
+Twitter: <https://www.twitter.com/asierrawebdev>
 
 <!-- ## Tech I use:
 || | | |
