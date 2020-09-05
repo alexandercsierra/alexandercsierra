@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Alex - | Full Stack Web Developer | Team Lead |
+# Hi there 👋, I'm Alex - | Full Stack Software Engineer |
 
 <img src="https://alexandercsierra.com/static/media/smallerlogo.6573817e.png" width="100">
 
