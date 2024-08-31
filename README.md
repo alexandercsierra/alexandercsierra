@@ -15,17 +15,7 @@ Above all else, I love learning new things 📚, and there is certainly no short
 | <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  | JavaScript | <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> | Materal UI |
 | <img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/> | ReactJS    | <img src="https://img.icons8.com/color/48/000000/redux.png"/>       | Redux      |
 |   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>    | NodeJS     | <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> | PostgreSQL |
-|   <img src="https://img.icons8.com/color/48/000000/python.png"/>    | Python3    | <img src="https://img.icons8.com/color/48/000000/graphql.png"/>   | GraphQL      |
+| <img src="https://img.icons8.com/color/48/000000/typescript.png"/> | TypeScript  | <img src="https://img.icons8.com/color/48/000000/graphql.png"/>   | GraphQL      |
 |<img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>  | Blender 3D |
 <br>
 
-## Tech I'm learning:
-
-|                                                                    |              |
-| :----------------------------------------------------------------: | :----------- |
-| <img src="https://img.icons8.com/color/48/000000/typescript.png"/> | TypeScript   |
-|   <img src="https://img.icons8.com/nolan/64/react-native.png"/>    | React Native |
-
-### More about this here:
-
-<https://www.alexandercsierra.com/learning>
