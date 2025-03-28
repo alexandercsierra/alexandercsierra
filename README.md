@@ -1,11 +1,13 @@
 # Hi there 👋, I'm Alex - | Full Stack Software Engineer |
 
 LinkedIn: <https://www.linkedin.com/in/alexandercsierra/> <br>
+Portfolio: <https://www.alexandercsierra.com/> <br>
+
 
 
 ## A little bit about me:
 
-Above all else, I love learning new things 📚, and there is certainly no shortage of that in the development world. I find it so satisfying to have a problem, research the solution, then be able to immediately apply my new knowledge to fix a problem I couldn't solve 5 minutes ago. I also dabble in 3D modeling, having completed a 65+ hour course in Blender. When not developing 💻, I can be found playing trumpet in my community band, or frolicking in the snow ❄.<br><br>
+I'm a software engineer with 5 years of experience building JavaScript applications in React/Node. That experience was forged in fire, working in fast-paced startup environments where learning quickly and making things work was top priority. Currently seeking new employment.<br><br>
 
 ## Tech I use:
 
